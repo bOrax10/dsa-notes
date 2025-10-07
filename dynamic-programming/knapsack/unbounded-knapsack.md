@@ -34,6 +34,23 @@ The most straightforward way to formalize the state is with two dimensions: `dp[
 
 This gives the general 2D recurrence: `dp[i][j] = AGGREGATE( dp[i-1][j], operation(dp[i][j - c_{i-1}]) )` \* `AGGREGATE` is the function we use to combine results (e.g., `+` for counting, `min` for optimization). \* `operation` is what we do with the subproblem result (e.g., just the value, or `value + 1`).
 
+#### Space Optimization
+
+Notice that in the 2D recurrence `dp[i][j] = AGGREGATE(dp[i-1][j], ...)` the calculation for row `i` only depends on values from row `i-1` and other values in the _current_ row `i` (specifically, `dp[i][j - item_weight]`). This dependency allows us to optimize away the first dimension of the DP table.
+
+We can use a single array `dp[j]` where:
+
+* `dp[j]` (before an update in the inner loop) stores the value from the previous row, `dp[i-1][j]`.
+* When we calculate the new `dp[j]`, we use `dp[j - item_weight]`, which has _already been updated_ in this same pass for item `i`. This correctly represents `dp[i][j - item_weight]`.
+
+This collapses the 2D recurrence into a simpler 1D formula, significantly reducing space complexity.
+
+***
+
+### **C++ Implementation**
+
+1. **2D DP**
+
 ```cpp
 // Time: O(N * C), Space: O(N * C)
 // N = number of items, C = capacity
@@ -59,16 +76,7 @@ for (int i = 1; i <= N; ++i) {
 return dp[N][C];
 ```
 
-#### 1D DP Optimization
-
-Notice that in the 2D recurrence `dp[i][j] = AGGREGATE(dp[i-1][j], ...)` the calculation for row `i` only depends on values from row `i-1` and other values in the _current_ row `i` (specifically, `dp[i][j - item_weight]`). This dependency allows us to optimize away the first dimension of the DP table.
-
-We can use a single array `dp[j]` where:
-
-* `dp[j]` (before an update in the inner loop) stores the value from the previous row, `dp[i-1][j]`.
-* When we calculate the new `dp[j]`, we use `dp[j - item_weight]`, which has _already been updated_ in this same pass for item `i`. This correctly represents `dp[i][j - item_weight]`.
-
-This collapses the 2D recurrence into a simpler 1D formula, significantly reducing space complexity.
+2. Space optimized 1D DP
 
 ```cpp
 // Time: O(N * C), Space: O(C)

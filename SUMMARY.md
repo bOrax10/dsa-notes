@@ -31,3 +31,4 @@
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Knapsack](dynamic-programming/knapsack/README.md)
     * [Unbounded Knapsack](dynamic-programming/knapsack/unbounded-knapsack.md)
+    * [0/1 Knapsack](dynamic-programming/knapsack/0-1-knapsack.md)
