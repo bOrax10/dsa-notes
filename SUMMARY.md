@@ -32,3 +32,5 @@
   * [Knapsack](dynamic-programming/knapsack/README.md)
     * [Unbounded Knapsack](dynamic-programming/knapsack/unbounded-knapsack.md)
     * [0/1 Knapsack](dynamic-programming/knapsack/0-1-knapsack.md)
+  * [Interval DP](dynamic-programming/interval-dp/README.md)
+    * [With Extra Parameter](dynamic-programming/interval-dp/with-extra-parameter.md)
