@@ -34,3 +34,6 @@
     * [0/1 Knapsack](dynamic-programming/knapsack/0-1-knapsack.md)
   * [Interval DP](dynamic-programming/interval-dp/README.md)
     * [With Extra Parameter](dynamic-programming/interval-dp/with-extra-parameter.md)
+  * [2D Grid DP](dynamic-programming/2d-grid-dp/README.md)
+    * [Grid Traversal](dynamic-programming/2d-grid-dp/grid-traversal.md)
+    * [DP on Profiles/States](dynamic-programming/2d-grid-dp/dp-on-profiles-states.md)
