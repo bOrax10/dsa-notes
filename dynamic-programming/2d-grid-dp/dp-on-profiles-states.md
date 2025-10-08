@@ -84,7 +84,7 @@ long long solveProfileDP_2D(int n, int m, const vector<int>& constraints) {
 
 ### Complexity Analysis
 
-* &#x20;Time Complexity: $$O(n⋅m2)$$
+* &#x20;Time Complexity: $$O(n⋅m^2)$$
 
 Note on Optimization: For many problems, the transition from a state `j` is only possible from a small, constant number of previous states (e.g., `j-1`, `j`, `j+1`). In such cases, the innermost loop becomes constant time, $$O(1)$$, and the overall time complexity reduces to a more efficient $$O(n⋅m)$$.
 
