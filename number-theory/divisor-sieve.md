@@ -26,11 +26,17 @@ After the loops complete, the entry `divisors[x]` will have been incremented onc
 using namespace std;
 
 vector<int> sieveDivisors(int n) {
+    // store no of divisors
     vector<int> divisors(n + 1, 0);
+    
+    // if you want to store the divisors
+    // vector<int> divisors[n + 1]
     
     for (int i = 1; i <= n; ++i) {
         for (int j = i; j <= n; j += i) {
             divisors[j]++;
+            // if you want to store the divisors 
+            // divisors[j].push_back(i);
         }
     }
     
