@@ -19,6 +19,7 @@
   * [Distinct Values Subarrays II](array/distinct-values-subarrays-ii.md)
   * [Array Division](array/array-division.md)
   * [Maximum Subarray Sums II](array/maximum-subarray-sums-ii.md)
+  * [Global Maximum](array/global-maximum.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
