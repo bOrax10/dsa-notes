@@ -67,8 +67,6 @@ vector&#x3C;int> primes;
 
 [204. Count Primes (Medium)](https://leetcode.com/problems/count-primes/description/)
 
-[CSES Task 1713](https://cses.fi/problemset/task/1713)
-
 [TDPRIMES](https://www.spoj.com/problems/TDPRIMES/)
 
 [SIOENES](https://www.spoj.com/problems/SIOENES/)

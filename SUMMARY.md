@@ -42,3 +42,4 @@
 * [Number Theory](number-theory/README.md)
   * [Sieve of Eratosthenes](number-theory/sieve-of-eratosthenes.md)
   * [Segmented Sieve](number-theory/segmented-sieve.md)
+  * [Divisor Sieve](number-theory/divisor-sieve.md)
