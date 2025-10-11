@@ -67,8 +67,18 @@ vector&#x3C;int> primes;
 
 [204. Count Primes (Medium)](https://leetcode.com/problems/count-primes/description/)
 
-[TDPRIMES](https://www.spoj.com/problems/TDPRIMES/)
+[Printing some primes](https://www.spoj.com/problems/TDPRIMES/)
 
-[SIOENES](https://www.spoj.com/problems/SIOENES/)
+[Eratosthenes Prime numbers](https://www.spoj.com/problems/SIOENES/)
 
-[TDKPRIME](https://www.spoj.com/problems/TDKPRIME/)
+[Finding the Kth Prime](https://www.spoj.com/problems/TDKPRIME/)
+
+[Binary Sequence of Prime Number](https://www.spoj.com/problems/BSPRIME/)
+
+[CF 17A - Noldbach problem](https://codeforces.com/problemset/problem/17/A)
+
+[CF 776B - Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B)
+
+[primes triangle (I)](https://www.spoj.com/problems/PTRI/)
+
+[https://codeforces.com/contest/776/problem/B](https://codeforces.com/contest/776/problem/B)

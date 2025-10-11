@@ -88,6 +88,9 @@ vector<long long> segmentedSieve(long long L, long long R) {
 
 ### Problems
 
-[KPRIMES2](https://www.spoj.com/problems/KPRIMES2/)
+[Finding the Kth Prime (Hard)](https://www.spoj.com/problems/KPRIMES2/)
 
-[PRIME1](https://www.spoj.com/problems/PRIME1/)
+[Prime Generator](https://www.spoj.com/problems/PRIME1/)
+
+[Printing some primes (Hard)](https://www.spoj.com/problems/PRIMES2/)
+

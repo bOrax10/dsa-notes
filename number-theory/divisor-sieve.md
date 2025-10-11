@@ -56,3 +56,8 @@ vector<int> sieveDivisors(int n) {
 ### Problems
 
 [Counting Divisors](https://cses.fi/problemset/task/1713)
+
+[1390. Four Divisors&#x20;(Medium)](https://leetcode.com/problems/four-divisors/description/)
+
+[CF 154B - Colliders](https://codeforces.com/problemset/problem/154/B)
+
