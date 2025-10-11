@@ -38,3 +38,7 @@
   * [2D Grid DP](dynamic-programming/2d-grid-dp/README.md)
     * [Grid Traversal](dynamic-programming/2d-grid-dp/grid-traversal.md)
     * [DP on Profiles/States](dynamic-programming/2d-grid-dp/dp-on-profiles-states.md)
+  * [DP on Strings](dynamic-programming/dp-on-strings.md)
+* [Number Theory](number-theory/README.md)
+  * [Sieve of Eratosthenes](number-theory/sieve-of-eratosthenes.md)
+  * [Segmented Sieve](number-theory/segmented-sieve.md)
