@@ -82,3 +82,4 @@ vector<int> bfs_01(const vector<vector<pair<int, int>>>& adj, int V, int src) {
 
 [1368. Minimum Cost to Make at Least One Valid Path in a Grid&#x20;(Hard)](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
+[CF 1063B - Labyrinth](https://codeforces.com/contest/1063/problem/B)
