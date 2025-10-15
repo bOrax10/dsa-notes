@@ -44,4 +44,5 @@
   * [Segmented Sieve](number-theory/segmented-sieve.md)
   * [Divisor Sieve](number-theory/divisor-sieve.md)
   * [Factor Sieve](number-theory/factor-sieve.md)
+  * [Trial Division Primality Test](number-theory/trial-division-primality-test.md)
   * [Fermat Primality Test](number-theory/fermat-primality-test.md)
