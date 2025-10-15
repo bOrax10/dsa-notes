@@ -1,4 +1,4 @@
-# Miller-Rabin Primality Te
+# Miller-Rabin Primality Test
 
 Given a large integer n, the task is to efficiently determine if n is a prime number. The Miller-Rabin test provides a high-probability answer, making it much more reliable than the Fermat test and faster than deterministic methods for large input
 

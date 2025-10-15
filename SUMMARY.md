@@ -46,4 +46,4 @@
   * [Factor Sieve](number-theory/factor-sieve.md)
   * [Trial Division Primality Test](number-theory/trial-division-primality-test.md)
   * [Fermat Primality Test](number-theory/fermat-primality-test.md)
-  * [Miller-Rabin Primality Te](number-theory/miller-rabin-primality-te.md)
+  * [Miller-Rabin Primality Test](number-theory/miller-rabin-primality-test.md)
