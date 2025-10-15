@@ -49,12 +49,6 @@ At each step `r`:
 #include <bits/stdc++.h>
 using namespace std;
 
-/*
-@param n - The total number of candidates
-@param k - The number of jobs to fill
-@params L,R - The interval of preference for ith candidate
-*/
-
 bool isPossible(int n, int k, const vector<int>& L, const vector<int>& R) {
     if (k > n) return false;
 
@@ -89,12 +83,6 @@ bool isPossible(int n, int k, const vector<int>& L, const vector<int>& R) {
 
 <pre class="language-cpp"><code class="lang-cpp"><strong>#include &#x3C;bits/stdc++.h>
 </strong>using namespace std;
-
-/*
-@param n - The total number of candidates
-@param k - The number of jobs to fill
-@params L,R - The interval of preference for ith candidate
-*/
 
 bool isPossible(int n, int k, const vector&#x3C;int>&#x26; L, const vector&#x3C;int>&#x26; R) {
     if (k > n) return false;
