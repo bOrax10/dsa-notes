@@ -37,6 +37,7 @@
 * [Graphs](graphs/README.md)
   * [DFS](graphs/dfs.md)
   * [BFS](graphs/bfs.md)
+  * [0-1 BFS](graphs/0-1-bfs.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
