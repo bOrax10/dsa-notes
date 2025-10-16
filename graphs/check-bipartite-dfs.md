@@ -8,6 +8,8 @@ A more intuitive way to think about this is: can we color the graph with just tw
 
 ***
 
+### Approach
+
 The DFS-based approach directly implements the two-coloring strategy. We traverse the graph, assigning one of two colors to each vertex we visit. A conflict arises if we find an edge connecting two vertices that have already been assigned the same color.
 
 The algorithm works as follows:
@@ -70,4 +72,15 @@ bool isBipartite(int V, vector<int> adj[]) {
 
 * Time Complexity: $$O(V + E)$$
 * Space Complexity: $$O(V)$$
-*
+
+***
+
+### Problems
+
+[Building Teams](https://cses.fi/problemset/task/1668)
+
+[3710. Maximum Partition Factor (Hard)](https://leetcode.com/problems/maximum-partition-factor/)
+
+[886. Possible Bipartition (Medium)](https://leetcode.com/problems/possible-bipartition/description/)
+
+[785. Is Graph Bipartite? (Medium)](https://leetcode.com/problems/is-graph-bipartite/description/)

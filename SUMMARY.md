@@ -43,6 +43,7 @@
   * [Cycle Detection - Directed Graph - DFS](graphs/cycle-detection-directed-graph-dfs.md)
   * [Cycle Detection - Directed Graph - BFS](graphs/cycle-detection-directed-graph-bfs.md)
   * [Check Bipartite - DFS](graphs/check-bipartite-dfs.md)
+  * [Check Bipartite - BFS](graphs/check-bipartite-bfs.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
