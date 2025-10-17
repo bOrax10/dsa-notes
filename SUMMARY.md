@@ -44,6 +44,8 @@
   * [Cycle Detection - Directed Graph - BFS](graphs/cycle-detection-directed-graph-bfs.md)
   * [Check Bipartite - DFS](graphs/check-bipartite-dfs.md)
   * [Check Bipartite - BFS](graphs/check-bipartite-bfs.md)
+  * [Toposort - DFS](graphs/toposort-dfs.md)
+  * [Kahn's Algorithm - Toposort - BFS](graphs/kahns-algorithm-toposort-bfs.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
