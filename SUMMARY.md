@@ -46,6 +46,8 @@
   * [Check Bipartite - BFS](graphs/check-bipartite-bfs.md)
   * [Toposort - DFS](graphs/toposort-dfs.md)
   * [Kahn's Algorithm - Toposort - BFS](graphs/kahns-algorithm-toposort-bfs.md)
+  * [Shortest Path in DAG - Toposort](graphs/shortest-path-in-dag-toposort.md)
+  * [Dijkstra's Algorithm](graphs/dijkstras-algorithm.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
