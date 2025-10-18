@@ -83,7 +83,8 @@ long long minimizeMaxSubarraySum(const vector<int>& arr, int k) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity - $$O(NlogS)$$ - where S = sum of all elements
+* Space Complexity - $$O(1)$$
 
 ***
 

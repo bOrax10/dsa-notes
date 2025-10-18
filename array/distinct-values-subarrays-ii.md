@@ -61,7 +61,8 @@ long long countSubarraysWithAtMostKDistinct(const vector<int> &arr, int k)
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity - $$O(NlogN)$$
+* Space Complexity - $$O(N)$$
 
 ***
 

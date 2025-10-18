@@ -54,7 +54,8 @@ vector<int> dfsOfGraph(int V, vector<int> adj[]) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity: $$O(V + E)$$
+* Space Complexity: $$O(V)$$
 
 ***
 

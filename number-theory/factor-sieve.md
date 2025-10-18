@@ -95,7 +95,8 @@ divisorPropertiesSieve(int n) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity - $$O(NlogN)$$
+* Space Complexity - $$O(N)$$
 
 ***
 

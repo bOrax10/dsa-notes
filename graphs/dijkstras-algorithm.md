@@ -119,7 +119,8 @@ vector <int> dijkstra(int V, vector<vector<int>> adj[], int S) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity: $$O(ElogV)$$
+* Space Complexity: $$O(V)$$
 
 ***
 

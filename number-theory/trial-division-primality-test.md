@@ -43,4 +43,5 @@ bool isPrime(int n) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity - $$O(\sqrt N)$$
+* Space Complexity - $$O(1)$$

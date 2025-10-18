@@ -6,8 +6,6 @@ Given a large integer n, the task is to efficiently determine if n is a prime nu
 
 ### Approach
 
-#### ## Approach 🧐
-
 The Miller-Rabin test refines Fermat's Little Theorem by adding a check based on the property of square roots of unity modulo a prime.
 
 **Core Mathematical Properties**:
@@ -89,7 +87,8 @@ bool MillerRabin(u64 n, int iter=5) { // returns true if n is probably prime, el
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity: $$O(k log n)$$ - The power function takes O(logn) time. This is repeated a few times inside millerRabinTest and then repeated k times for different witnesses. Since k is a small constant, the performance is excellent.
+* Space Complexity: $$O(1)$$
 
 ***
 

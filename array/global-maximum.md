@@ -71,7 +71,8 @@ int solveMaximizeMinimum(vector<int>& arr, int k) {
 
 ### Complexity Analysis
 
-{% include "../.gitbook/includes/time-complexity-space-com....md" %}
+* Time Complexity - $$O(NlogM)$$ - where M = range of search (max - min)
+* Space Complexity - $$O(1)$$
 
 ***
 
