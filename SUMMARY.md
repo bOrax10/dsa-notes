@@ -49,6 +49,7 @@
   * [Shortest Path in DAG - Toposort](graphs/shortest-path-in-dag-toposort.md)
   * [Dijkstra's Algorithm](graphs/dijkstras-algorithm.md)
   * [Bellman Ford's Algorithm](graphs/bellman-fords-algorithm.md)
+  * [Floyd Warshall Algorithm](graphs/floyd-warshall-algorithm.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
