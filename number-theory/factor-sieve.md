@@ -108,4 +108,6 @@ divisorPropertiesSieve(int n) {
 
 [N-Factorful](https://www.spoj.com/problems/NFACTOR/)
 
-[CF 154B - Colliders](https://codeforces.com/problemset/problem/154/B)
+[Colliders](https://codeforces.com/problemset/problem/154/B)
+
+[No Cost Too Great (Easy Version)](https://codeforces.com/contest/2154/problem/C1)

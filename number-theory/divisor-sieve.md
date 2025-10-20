@@ -59,5 +59,5 @@ vector<int> sieveDivisors(int n) {
 
 [1390. Four Divisors&#x20;(Medium)](https://leetcode.com/problems/four-divisors/description/)
 
-[CF 154B - Colliders](https://codeforces.com/problemset/problem/154/B)
+[Colliders](https://codeforces.com/problemset/problem/154/B)
 

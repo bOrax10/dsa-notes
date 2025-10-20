@@ -88,3 +88,21 @@ void shortest_distance(vector<vector<int>>& matrix) {
 [Shortest Routes II](https://cses.fi/problemset/task/1672)
 
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance (Medium)](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/description/)
+
+[Possible Friends](https://www.spoj.com/problems/SOCIALNE/)
+
+[106 miles to Chicago](https://www.spoj.com/problems/CHICAGO/)
+
+[Defend The Rohan](https://www.spoj.com/problems/ROHAAN/)
+
+[Ingredients](https://www.spoj.com/problems/INGRED/)
+
+[Arbitrage](https://www.spoj.com/problems/ARBITRAG/)
+
+[Greg and Graph](https://codeforces.com/problemset/problem/295/B)
+
+[Traveling Graph](https://codeforces.com/problemset/problem/21/D)
+
+[Roads in Berland](https://codeforces.com/contest/25/problem/C)
+
+[String Problem](https://codeforces.com/contest/33/problem/B)

@@ -50,6 +50,7 @@
   * [Dijkstra's Algorithm](graphs/dijkstras-algorithm.md)
   * [Bellman Ford's Algorithm](graphs/bellman-fords-algorithm.md)
   * [Floyd Warshall Algorithm](graphs/floyd-warshall-algorithm.md)
+  * [Prim's Algorithm](graphs/prims-algorithm.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
