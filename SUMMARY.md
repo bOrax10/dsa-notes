@@ -52,6 +52,7 @@
   * [Floyd Warshall Algorithm](graphs/floyd-warshall-algorithm.md)
   * [Prim's Algorithm - MST](graphs/prims-algorithm-mst.md)
   * [Kruskal's Algorithm - MST](graphs/kruskals-algorithm-mst.md)
+  * [Disjoint Set Union](graphs/disjoint-set-union.md)
 * [Intervals](intervals/README.md)
   * [Interval Assignment](intervals/interval-assignment.md)
   * [Nested Ranges Check](intervals/nested-ranges-check.md)
