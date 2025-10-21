@@ -68,7 +68,9 @@ vector<vector<long long>> GridTraversal(int rows, int cols, vector<vector<bool>>
 
 ### Problems
 
-[CSES Task 1638](https://cses.fi/problemset/task/1638)
+[Grid Paths I](https://cses.fi/problemset/task/1638)
+
+[Edit Distance](https://cses.fi/problemset/task/1639)
 
 [62. Unique Paths (Medium)](https://leetcode.com/problems/unique-paths/)
 
