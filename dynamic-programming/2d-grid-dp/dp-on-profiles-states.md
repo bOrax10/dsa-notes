@@ -96,7 +96,9 @@ Note on Optimization: As discussed previously, since the calculation for any row
 
 ### Problems
 
-[CSES Task 1746](https://cses.fi/problemset/task/1746)
+[Array Description](https://cses.fi/problemset/task/1746)
+
+[Counting Towers](https://cses.fi/problemset/task/2413)
 
 [931. Minimum Falling Path Sum (Medium)](https://leetcode.com/problems/minimum-falling-path-sum/description/)
 
