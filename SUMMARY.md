@@ -24,6 +24,7 @@
   * [Stack](data-structures/stack/README.md)
     * [Recursive Stack Sort](data-structures/stack/recursive-stack-sort.md)
     * [Monotonic Stack](data-structures/stack/monotonic-stack.md)
+  * [Segment Tree](data-structures/segment-tree.md)
 * [Dynamic Programming](dynamic-programming/README.md)
   * [Knapsack](dynamic-programming/knapsack/README.md)
     * [Unbounded Knapsack](dynamic-programming/knapsack/unbounded-knapsack.md)
