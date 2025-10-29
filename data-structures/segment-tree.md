@@ -147,3 +147,39 @@ public:
 
 ### Problems
 
+[Knight Tournament](https://codeforces.com/contest/356/problem/A)
+
+<details>
+
+<summary>Hint:</summary>
+
+Store the minimum index of the _active_ knight in each node, and use point updates to "eliminate" losers by setting their value to infinity.
+
+</details>
+
+[Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)
+
+<details>
+
+<summary>Hint:</summary>
+
+Store the result of the operation in each node, alternating the operation (OR/XOR) at each level of the tree during builds and updates.
+
+</details>
+
+[Distinct Characters Queries](https://codeforces.com/problemset/problem/1234/D)
+
+<details>
+
+<summary>Hint:</summary>
+
+Store a bitmask (representing the set of characters) in each node, and merge nodes by taking the bitwise OR of their masks.
+
+</details>
+
+[Ant colony](https://codeforces.com/contest/474/problem/F)
+
+[Drazil and Park](https://codeforces.com/contest/515/problem/E)
+
+[Hotel Queries](https://cses.fi/problemset/task/1143/)
+
