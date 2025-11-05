@@ -14,5 +14,7 @@ I put all of my DSA notes here.
 
 {% embed url="https://codeforces.com/" %}
 
+{% embed url="https://usaco.guide/" %}
+
 {% embed url="https://takeuforward.org/" %}
 

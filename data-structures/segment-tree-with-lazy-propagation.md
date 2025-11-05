@@ -150,3 +150,30 @@ public:
 
 ### Problems
 
+[Polynomial Queries](https://cses.fi/problemset/task/1736)
+
+[Range Updates and Sums](https://cses.fi/problemset/task/1735)
+
+[Circular RMQ](https://codeforces.com/problemset/problem/52/C)
+
+[The Untended Antiquity](https://codeforces.com/problemset/problem/869/E)
+
+[Please, another Queries on Array?](https://codeforces.com/problemset/problem/1114/F)
+
+[XOR on Segment](https://codeforces.com/problemset/problem/242/E)
+
+[SUM and REPLACE](https://codeforces.com/problemset/problem/920/F)
+
+[A Simple Task](https://codeforces.com/problemset/problem/558/E)
+
+[Kefa and Watch](https://codeforces.com/problemset/problem/580/E)
+
+[Eyes Closed](https://codeforces.com/problemset/problem/895/E)
+
+[Alphabet Permutations](https://codeforces.com/problemset/problem/610/E)
+
+[DZY Loves Fibonacci Numbers](https://codeforces.com/contest/446/problem/C)
+
+[The Child and Sequence](https://codeforces.com/contest/438/problem/D)
+
+[Lucky Array](https://codeforces.com/contest/121/problem/E)
